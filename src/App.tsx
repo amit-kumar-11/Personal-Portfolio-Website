@@ -253,8 +253,8 @@ function App() {
       techStack: ["React", "Node.js", "MongoDB", "Stripe"],
       year: "2024",
       links: {
-        github: "https://github.com/amit-kumar-11/ecommerce-platform",
-        live: "https://ecommerce-platform-demo.vercel.app/"
+        github: "https://github.com/amit-kumar-11/E-commerce-Store",
+        live: "https://e-commerce-store-nu-red.vercel.app/"
       }
     },
     {
@@ -264,8 +264,8 @@ function App() {
       techStack: ["React", "TypeScript", "IoT APIs", "Chart.js"],
       year: "2024",
       links: {
-        github: "https://github.com/amit-kumar-11/smart-home-dashboard",
-        live: "https://smart-home-demo.vercel.app/"
+        github: "https://github.com/amit-kumar-11/Smart-Home-Dashboard",
+        live: "https://smart-home-dashboard-beta.vercel.app/"
       }
     },
     {
@@ -275,8 +275,8 @@ function App() {
       techStack: ["React", "Weather API", "CSS", "Geolocation"],
       year: "2024",
       links: {
-        github: "https://github.com/amit-kumar-11/weather-app",
-        live: "https://weather-insights-app.vercel.app/"
+        github: "https://github.com/amit-kumar-11/Weather-App",
+        live: "https://weather-app-ten-pi-11.vercel.app/"
       }
     },
     {
@@ -286,8 +286,8 @@ function App() {
       techStack: ["React", "Firebase", "Maps API", "Tailwind"],
       year: "2024",
       links: {
-        github: "https://github.com/amit-kumar-11/trip-planner",
-        live: "https://adventure-planner-demo.vercel.app/"
+        github: "https://github.com/amit-kumar-11/Trip-Planner",
+        live: "https://trip-planner-orcin-beta.vercel.app/"
       }
     },
     {
@@ -297,8 +297,8 @@ function App() {
       techStack: ["React", "Python", "PostgreSQL", "WebSocket"],
       year: "2024",
       links: {
-        github: "https://github.com/amit-kumar-11/quiz-platform",
-        live: "https://interactive-quiz-demo.vercel.app/"
+        github: "https://github.com/amit-kumar-11/online-quiz-platform",
+        live: "https://online-quiz-platform-mu.vercel.app/"
       }
     },
     {
@@ -308,8 +308,8 @@ function App() {
       techStack: ["React", "Date-fns", "CSS Grid", "Local Storage"],
       year: "2023",
       links: {
-        github: "https://github.com/amit-kumar-11/100-years-calendar",
-        live: "https://century-calendar-demo.vercel.app/"
+        github: "https://github.com/amit-kumar-11/100_Year-s_calander",
+        live: "https://100-year-s-calander.vercel.app/"
       }
     },
     {
@@ -319,8 +319,8 @@ function App() {
       techStack: ["React", "D3.js", "API Integration", "Animation"],
       year: "2023",
       links: {
-        github: "https://github.com/amit-kumar-11/historical-timeline",
-        live: "https://history-explorer-demo.vercel.app/"
+        github: "https://github.com/amit-kumar-11/MileStones-That_Made_History",
+        live: "https://mile-stones-that-made-history.vercel.app/"
       }
     }
   ];
@@ -328,7 +328,7 @@ function App() {
   const skillCategories = [
     {
       title: "Frontend Mastery",
-      skills: ["React.js", "TypeScript", "Tailwind CSS", "Next.js", "Framer Motion"],
+      skills: ["React.js", "TypeScript", "JavaScript", "Tailwind CSS", "Next.js", "Framer Motion"],
       icon: "⚛️",
       color: "blue"
     },
@@ -540,13 +540,13 @@ function App() {
               <p className="text-base sm:text-lg text-gray-600 dark:text-gray-400 leading-relaxed mb-6 sm:mb-8 transition-colors">
                 I believe in writing clean, maintainable code and creating interfaces that are both 
                 beautiful and functional. When I'm not coding, you'll find me exploring new technologies, 
-                contributing to open source, or enjoying a perfect cup of coffee.
+                contributing to open source, or enjoying a perfect cup of coffee and more important sleeping also.
               </p>
               
               <div className="flex flex-col xs:flex-row items-start xs:items-center gap-4 xs:gap-6 text-gray-600 dark:text-gray-400 transition-colors">
                 <div className="flex items-center gap-2">
                   <MapPin size={18} />
-                  <span>Mumbai, India</span>
+                  <span>West Bengal, India</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Coffee size={18} />
